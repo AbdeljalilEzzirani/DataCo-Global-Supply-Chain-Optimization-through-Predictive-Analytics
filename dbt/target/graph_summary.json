@@ -1,0 +1,1 @@
+{"_invocation_id": "c63bb926-c3ed-442c-b6fc-cffb52274688", "linked": {"0": {"name": "model.supply_chain_analytics.kpis", "type": "model"}, "1": {"name": "model.supply_chain_analytics.stg_stock", "type": "model"}, "2": {"name": "model.supply_chain_analytics.stg_orders", "type": "model"}}}
